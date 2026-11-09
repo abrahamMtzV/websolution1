@@ -6,7 +6,7 @@ return [
   'host' => 'ssl://smtp.gmail.com',
   'port' => 465,
   'user' => 'abraham.martinezws@gmail.com',
-  'pass' => 'PEGA_AQUI_TU_CONTRASENA_DE_APLICACION',
+  'pass' => 'slok nzlk onri dxuu',
   'to'   => 'abraham.martinezws@gmail.com',
   'name' => 'Sitio web Abraham Martínez',
 ];
