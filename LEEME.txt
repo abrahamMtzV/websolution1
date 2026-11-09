@@ -1,0 +1,12 @@
+ESTRUCTURA
+index.html        -> estructura y textos en ESPAÑOL (edita el texto dentro de cada etiqueta)
+js/lang.js        -> textos en INGLÉS (misma clave data-i18n que en el HTML)
+js/main.js        -> idioma, menú, animaciones, formulario
+css/styles.css    -> estilos (colores en :root)
+php/config.php    -> pon tu contraseña de aplicación de Gmail
+php/contact.php   -> envío por SMTP
+img/logo.png      -> tu logo
+
+NOTAS
+- El formulario necesita un hosting con PHP (no funciona abriendo el HTML local ni en hosting solo estático).
+- Para cambiar precios: edita index.html (español) y js/lang.js (inglés).
